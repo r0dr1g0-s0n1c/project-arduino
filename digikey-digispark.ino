@@ -1,3 +1,5 @@
+//Este script realiza de forma automatica o download de um arquivo para maquina algo, e pra ser usado na digispark e pode ser melhorado, script para fins didadico
+
 #include "DigiKeyboard.h"
 
 void setup() {
