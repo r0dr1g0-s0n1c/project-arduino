@@ -1,3 +1,4 @@
+// este codigo clona o rfid de forma a o onde mostra na tela lcd o id clonado para isso e preciso montar o laboratorio usando arduino e a placa de rfid. lembrando fins didadico.
 #include <SPI.h>
 #include <MFRC522.h>
 #include <Wire.h> 
